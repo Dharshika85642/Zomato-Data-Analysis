@@ -25,9 +25,13 @@ This project involves an in-depth analysis of Zomato restaurant data to provide 
 📌 Recommendations
 
 ✅ Expand in Low-Competition Markets – Prioritize Australia,Canada,Singapore,Sri Lanka.
+
 ✅ Leverage Online Delivery Services – Increase accessibility and customer reach.
+
 ✅ Introduce Table Booking – Enhance ratings and engagement.
+
 ✅ Offer High-Performing Cuisines – Focus on Italian, Bakery, and Chinese.
+
 ✅ Optimize Pricing Strategy – Mid-range pricing has the highest demand, but premium expansion is an opportunity.
 
 📊 Dashboard & Visualizations
