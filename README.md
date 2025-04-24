@@ -36,7 +36,8 @@ This project involves an in-depth analysis of Zomato restaurant data to provide 
 
 ## 📊 Dashboard & Visualizations
 
-![image](https://github.com/user-attachments/assets/b9e2565c-62e8-422e-8931-7297118ebd34)
+![image](https://github.com/user-attachments/assets/b58a2c70-b837-4205-8942-4e40173f25b7)
+
 
 - Includes Year-wise and country-wise filters for dynamic insights.
   
